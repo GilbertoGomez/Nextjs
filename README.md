@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next APP
+
+### Aplicación que consume una API en django y mongoDB
 
 Después de clonar el repositorio nos movemos a la carpeta Nextjs
 
